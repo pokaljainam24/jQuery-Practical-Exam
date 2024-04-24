@@ -1,0 +1,13 @@
+.custom-cursor {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    pointer-events:painted; 
+    z-index: 9999; 
+    display: none; 
+    transition: transform 0.2s ease;
+  }
+  
+  
